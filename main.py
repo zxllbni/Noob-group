@@ -6,10 +6,10 @@ import os
 from collections import defaultdict
 
 # Replace with your actual bot token
-TELEGRAM_TOKEN = os.getenv('TELEGRAM_TOKEN')
+TELEGRAM_TOKEN = os.getenv('7161180134:AAHFDUyOvyFCwPy6Xlc6lMsSMf0VUQimGbU')
 
 # Admin and user IDs (replace with actual admin IDs)
-ADMIN_IDS = [123456789]  # Replace with actual admin IDs
+ADMIN_IDS = [6473618718]  # Replace with actual admin IDs
 
 # Set up logging
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
