@@ -1,0 +1,6 @@
+__pycache__
+.dockerignore
+Dockerfile
+.git
+.gitignore
+README.md
